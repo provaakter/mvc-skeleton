@@ -11,6 +11,7 @@ namespace mvc_skeleton.Controllers
         public ActionResult Index()
         {
             return View();
+            //git test purpose
         }
 
         public ActionResult About()
